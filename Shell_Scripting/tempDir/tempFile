@@ -1,0 +1,324 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+    65540       0       0          4  ?              0   Aug 30 System
+    65724       0       0        188  ?              0   Aug 30 *** unknown ***
+    65768       0       0        232  ?              0   Aug 30 Registry
+    66324       0       0        788  ?              0   Aug 30 C:\Windows\System32\smss.exe
+    66916       0       0       1380  ?              0   Aug 30 C:\Windows\System32\csrss.exe
+    67124       0       0       1588  ?              0   Aug 30 C:\Windows\System32\wininit.exe
+    67268       0       0       1732  ?              0   Aug 30 C:\Windows\System32\services.exe
+    67284       0       0       1748  ?              0   Aug 30 C:\Windows\System32\LsaIso.exe
+    67296       0       0       1760  ?              0   Aug 30 C:\Windows\System32\lsass.exe
+    67424       0       0       1888  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67456       0       0       1920  ?              0   Aug 30 C:\Windows\System32\fontdrvhost.exe
+    67560       0       0       2024  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    66452       0       0        916  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67596       0       0       2060  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67640       0       0       2104  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67736       0       0       2200  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67776       0       0       2240  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67784       0       0       2248  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67792       0       0       2256  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67856       0       0       2320  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67928       0       0       2392  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    67968       0       0       2432  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    68028       0       0       2492  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    68088       0       0       2552  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    68196       0       0       2660  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    68212       0       0       2676  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    68392       0       0       2856  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    68416       0       0       2880  ?              0   Aug 30 C:\Program Files\Softdeluxe\Free Download Manager\helperservice.exe
+    68584       0       0       3048  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_4ae7e10b45473e65\Display.NvContainer\NVDisplay.Container.exe
+    68672       0       0       3136  ?              0   Aug 30 C:\Windows\System32\conhost.exe
+    68680       0       0       3144  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    68728       0       0       3192  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\amdfendr.inf_amd64_987f8cede005f427\amdfendrsr.exe
+    68736       0       0       3200  ?              0   Aug 30 C:\Program Files (x86)\ASUS\AsusCertService\1.2.40\AsusCertService.exe
+    68744       0       0       3208  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\u0406844.inf_amd64_5ac491662f29e436\B406401\atiesrxx.exe
+    68752       0       0       3216  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    68952       0       0       3416  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69144       0       0       3608  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69216       0       0       3680  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69540       0       0       4004  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69548       0       0       4012  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69556       0       0       4020  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69564       0       0       4028  ?              0   Aug 30 C:\Windows\System32\wbem\WmiPrvSE.exe
+    69072       0       0       3536  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69016       0       0       3480  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69660       0       0       4124  ?              0   Aug 30 MemCompression
+    69852       0       0       4316  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69904       0       0       4368  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69912       0       0       4376  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69988       0       0       4452  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70124       0       0       4588  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70184       0       0       4648  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70200       0       0       4664  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70304       0       0       4768  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70444       0       0       4908  ?              0   Aug 30 C:\Windows\System32\spoolsv.exe
+    70552       0       0       5016  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70612       0       0       5076  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70708       0       0       5172  ?              0   Aug 30 C:\Windows\System32\wbem\unsecapp.exe
+    70760       0       0       5224  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70864       0       0       5328  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\asusptpfilter.inf_amd64_1e467870260bcd2f\AsusPTPService.exe
+    70880       0       0       5344  ?              0   Aug 30 C:\Program Files\Bonjour\mDNSResponder.exe
+    70888       0       0       5352  ?              0   Aug 30 C:\Program Files\ASUS\Armoury Crate Service\ArmouryCrate.Service.exe
+    70904       0       0       5368  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70920       0       0       5384  ?              0   Aug 30 C:\Program Files\ASUS\Aura Wallpaper Service\AuraWallpaperService.exe
+    70984       0       0       5448  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70992       0       0       5456  ?              0   Aug 30 C:\Windows\System32\DTS\PC\APO4x\DtsApo4Service.exe
+    71000       0       0       5464  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    71008       0       0       5472  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    71032       0       0       5496  ?              0   Aug 30 C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe
+    71072       0       0       5536  ?              0   Aug 30 C:\Program Files (x86)\ASUS\GameSDK Service\GameSDK.exe
+    71084       0       0       5548  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    71124       0       0       5588  ?              0   Aug 30 C:\Program Files\ASUS\GlideX\GlideXNear\GlideXNearService.exe
+    71132       0       0       5596  ?              0   Aug 30 C:\Program Files\ASUS\GlideX\GlideXRemote\GlideXRemoteService.exe
+    71148       0       0       5612  ?              0   Aug 30 C:\Program Files\ASUS\GlideX\GlideXService.exe
+    71252       0       0       5716  ?              0   Aug 30 C:\Program Files\ASUS\GlideX\GlideXServiceExt.exe
+    71444       0       0       5908  ?              0   Aug 30 C:\Program Files (x86)\LightingService\LightingService.exe
+    71472       0       0       5936  ?              0   Aug 30 C:\Program Files\Mettl\MSB\Service\SafeExamBrowser.Service.exe
+    71504       0       0       5968  ?              0   Aug 30 C:\Program Files\MongoDB\Server\8.2\bin\mongod.exe
+    71520       0       0       5984  ?              0   Aug 30 C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe
+    71528       0       0       5992  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    71576       0       0       6040  ?              0   Aug 30 C:\Program Files\ASUS\ROG Live Service\ROGLiveService.exe
+    71596       0       0       6060  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_a5b5950537cd134e\RtkAudUService64.exe
+    71604       0       0       6068  ?              0   Aug 30 C:\Program Files\SafeExamBrowser\Service\SafeExamBrowser.Service.exe
+    71652       0       0       6116  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70500       0       0       4964  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    71732       0       0       6196  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    71740       0       0       6204  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    71848       0       0       6312  ?              0   Aug 30 C:\Program Files\WSL\wslservice.exe
+    72824       0       0       7288  ?              0   Aug 30 C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe
+    73044       0       0       7508  ?              0   Aug 30 C:\Windows\System32\conhost.exe
+    73052       0       0       7516  ?              0   Aug 30 C:\Windows\System32\AggregatorHost.exe
+    74872       0       0       9336  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    75240       0       0       9704  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    75272       0       0       9736  ?              0   Aug 30 C:\Windows\System32\NgcIso.exe
+    75024       0       0       9488  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    75440       0       0       9904  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    75792       0       0      10256  ?              0   Aug 30 C:\Program Files\WindowsApps\Microsoft.GamingServices_38.116.6003.0_x64__8wekyb3d8bbwe\gamingservicesnet.exe
+    75800       0       0      10264  ?              0   Aug 30 C:\Program Files\WindowsApps\Claude_1.7196.1.0_x64__pzs8sxrjxfjjc\app\resources\cowork-svc.exe
+    75808       0       0      10272  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    75824       0       0      10288  ?              0   Aug 30 C:\Program Files\WindowsApps\Microsoft.GamingServices_38.116.6003.0_x64__8wekyb3d8bbwe\gamingservices.exe
+    76464       0       0      10928  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    76632       0       0      11096  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    76596       0       0      11060  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    77252       0       0      11716  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    77336       0       0      11800  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    77656       0       0      12120  ?              0   Aug 30 C:\Windows\System32\vmcompute.exe
+    77792       0       0      12256  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    75768       0       0      10232  ?              0   Aug 30 C:\Windows\System32\GameInputSvc.exe
+    70972       0       0       5436  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    78612       0       0      13076  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    83112       0       0      17576  ?              0   Aug 30 C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler.exe
+    76848       0       0      11312  ?              0   Aug 30 C:\Program Files (x86)\BraveSoftware\Update\1.3.361.151\BraveCrashHandler64.exe
+    81348       0       0      15812  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    84916       0       0      19380  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70956       0       0       5420  ?              0   Aug 30 C:\Windows\System32\SecurityHealthService.exe
+    87848       0       0      22312  ?              0   Aug 30 C:\Program Files\ASUS\GlideX\adb.exe
+    82464       0       0      16928  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    86804       0       0      21268  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    78188       0       0      12652  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    84444       0       0      18908  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    81216       0       0      15680  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    85940       0       0      20404  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    81172       0       0      15636  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    78548       0       0      13012  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    78964       0       0      13428  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    77876       0       0      12340  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    70752       0       0       5216  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    72472       0       0       6936  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    71984       0       0       6448  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    90872       0       0      25336  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    81916       0       0      16380  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    88296       0       0      22760  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusOptimization.exe
+    93076       0       0      27540  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSSystemDiagnosis\AsusSystemDiagnosis.exe
+    79348       0       0      13812  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSSystemAnalysis\AsusSystemAnalysis.exe
+    93700       0       0      28164  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSSoftwareManager\AsusSoftwareManager.exe
+    90632       0       0      25096  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\AsusAppService\AsusAppService.exe
+    92256       0       0      26720  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSSwitch\AsusSwitch.exe
+    89624       0       0      24088  ?              0   Aug 30 C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+    96132       0       0      30596  ?              0   Aug 30 C:\Windows\System32\SearchIndexer.exe
+    86408       0       0      20872  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    86396       0       0      20860  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    68572       0       0       3036  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    69496       0       0       3960  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    98480       0       0      32944  ?              0   Aug 30 C:\Windows\System32\csrss.exe
+    66564       0       0       1028  ?              0   Aug 30 C:\Windows\System32\winlogon.exe
+    66624       0       0       1088  ?              0   Aug 30 C:\Windows\System32\fontdrvhost.exe
+    88884       0       0      23348  ?              0   Aug 30 C:\Windows\System32\dwm.exe
+    91312       0       0      25776  ?              0   Aug 30 C:\Windows\System32\GameInputSvc.exe
+    97588       0       0      32052  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\u0406844.inf_amd64_5ac491662f29e436\B406401\atieclxx.exe
+    96368       0       0      30832  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\nvam.inf_amd64_4ae7e10b45473e65\Display.NvContainer\NVDisplay.Container.exe
+    85056       0       0      19520  ?              0 01:06:43 C:\Program Files\Microsoft GameInput\x64\GameInputRedistService.exe
+    87400       0       0      21864  ?              0 01:06:43 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusOptimizationStartupTask.exe
+    94936       0       0      29400  ?              0   Aug 30 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusHotkey.exe
+    72508       0       0       6972  ?              0 01:06:44 C:\Windows\System32\sihost.exe
+   100456       0       0      34920  ?              0 01:06:44 C:\Windows\System32\svchost.exe
+    94316       0       0      28780  ?              0 01:06:44 C:\Windows\System32\svchost.exe
+   101660       0       0      36124  ?              0 01:06:44 C:\Windows\System32\svchost.exe
+    93272       0       0      27736  ?              0 01:06:44 C:\Windows\System32\svchost.exe
+    68780       0       0       3244  ?              0 01:06:44 C:\Program Files\ASUS\ASUS Hotplug Controller\AsHotplugCtrl.exe
+    82920       0       0      17384  ?              0 01:06:44 C:\Windows\System32\taskhostw.exe
+    98272       0       0      32736  ?              0 01:06:44 C:\Program Files\ASUS\ASUS Monitor Control\AsMonitorControl.exe
+   100652       0       0      35116  ?              0 01:06:44 C:\Program Files (x86)\ASUS\ASUS Smart Display Control\ASUSSmartDisplayControl.exe
+    95124       0       0      29588  ?              0 01:06:44 C:\Program Files\ASUS\Armoury Crate Service\ArmouryCrate.UserSessionHelper.exe
+    93296       0       0      27760  ?              0 01:06:44 C:\Windows\explorer.exe
+    99900       0       0      34364  ?              0 01:06:44 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\CrossDeviceResume.exe
+    89112       0       0      23576  ?              0 01:06:44 C:\Program Files (x86)\ASUS\ArmouryDevice\dll\AcPowerNotification\AcPowerNotification.exe
+    98064       0       0      32528  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    73128       0       0       7592  ?              0 01:06:45 C:\Windows\System32\conhost.exe
+    87752       0       0      22216  ?              0 01:06:45 C:\Windows\System32\svchost.exe
+    88332       0       0      22796  ?              0 01:06:46 C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.26071.84.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+    94524       0       0      28988  ?              0 01:06:46 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+    94352       0       0      28816  ?              0 01:06:46 C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+    84604       0       0      19068  ?              0 01:06:46 C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+    71588       0       0       6052  ?              0 01:06:47 C:\Windows\System32\RuntimeBroker.exe
+    92248       0       0      26712  ?              0 01:06:47 C:\Windows\System32\svchost.exe
+    83308       0       0      17772  ?              0 01:06:47 C:\Program Files\WindowsApps\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\WidgetService\WidgetService.exe
+    85436       0       0      19900  ?              0 01:06:48 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    79536       0       0      14000  ?              0 01:06:48 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    72984       0       0       7448  ?              0 01:06:49 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    80088       0       0      14552  ?              0 01:06:49 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    94752       0       0      29216  ?              0 01:06:49 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    68276       0       0       2740  ?              0 01:06:49 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    95052       0       0      29516  ?              0 01:06:51 C:\Windows\System32\RuntimeBroker.exe
+    82032       0       0      16496  ?              0 01:06:51 C:\Windows\System32\ctfmon.exe
+    96432       0       0      30896  ?              0 01:06:51 C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_a5b5950537cd134e\RtkAudUService64.exe
+    94664       0       0      29128  ?              0 01:06:53 C:\Program Files\WindowsApps\B9ECED6F.ArmouryCrate_6.5.7.0_x64__qmba6cd70vzyy\ArmouryCrate.exe
+    92340       0       0      26804  ?              0 01:06:53 C:\Program Files\Google\Chrome\Application\chrome.exe
+    77116       0       0      11580  ?              0 01:06:53 C:\Program Files\Google\Chrome\Application\chrome.exe
+    82168       0       0      16632  ?              0 01:06:53 C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.298.301.0_x64__zpdnekdrzrea0\SpotifyLauncher.exe
+    82092       0       0      16556  ?              0 01:06:53 C:\Program Files\Google\Chrome\Application\chrome.exe
+    95240       0       0      29704  ?              0 01:06:53 C:\Program Files\Google\Chrome\Application\chrome.exe
+    91608       0       0      26072  ?              0 01:06:53 C:\Program Files\Google\Chrome\Application\chrome.exe
+    82904       0       0      17368  ?              0 01:06:54 C:\Program Files\Google\Chrome\Application\chrome.exe
+    85332       0       0      19796  ?              0 01:06:55 C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.298.301.0_x64__zpdnekdrzrea0\crashpad_handler.exe
+    70620       0       0       5084  ?              0 01:06:56 C:\Program Files\Google\Chrome\Application\chrome.exe
+    89288       0       0      23752  ?              0 01:06:56 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe
+    96920       0       0      31384  ?              0 01:06:57 C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer\ArmourySocketServer.exe
+    77132       0       0      11596  ?              0 01:07:01 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+    80844       0       0      15308  ?              0 01:07:02 C:\Program Files\Google\Chrome\Application\chrome.exe
+    95560       0       0      30024  ?              0 01:07:05 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+    96640       0       0      31104  ?              0 01:07:05 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+    89456       0       0      23920  ?              0 01:07:08 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSOptimization\AsusOSD.exe
+    93624       0       0      28088  ?              0 01:07:10 C:\Windows\System32\SecurityHealthSystray.exe
+    98864       0       0      33328  ?              0 01:07:11 C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_a5b5950537cd134e\RtkAudUService64.exe
+    82192       0       0      16656  ?              0 01:07:12 C:\Program Files\Microsoft OneDrive\OneDrive.exe
+    99920       0       0      34384  ?              0 01:07:16 C:\Program Files\Softdeluxe\Free Download Manager\fdm.exe
+    85584       0       0      20048  ?              0 01:07:18 C:\Users\Abhiroop\AppData\Local\Temp\bwp016ea0da-6294-464b-a596-4963ab115316\UnInstDaemon.exe
+    90852       0       0      25316  ?              0 01:07:19 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    75972       0       0      10436  ?              0 01:07:19 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    97480       0       0      31944  ?              0 01:07:19 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    77272       0       0      11736  ?              0 01:07:19 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    80748       0       0      15212  ?              0 01:07:20 C:\Windows\System32\RuntimeBroker.exe
+    84140       0       0      18604  ?              0 01:07:20 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+   100084       0       0      34548  ?              0 01:07:20 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    75864       0       0      10328  ?              0 01:07:33 C:\Program Files\WindowsApps\Microsoft.BingWallpaper_1.1.461.0_x86__8wekyb3d8bbwe\BingWallpaper.exe
+    86968       0       0      21432  ?              0 01:07:34 C:\Program Files\WinZip\WzPreloader.exe
+    97500       0       0      31964  ?              0 01:07:40 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    88108       0       0      22572  ?              0 01:07:40 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    99040       0       0      33504  ?              0 01:07:40 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    98520       0       0      32984  ?              0 01:07:40 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    88156       0       0      22620  ?              0 01:07:40 C:\Windows\System32\RuntimeBroker.exe
+    80260       0       0      14724  ?              0 01:07:40 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    94764       0       0      29228  ?              0 01:07:41 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    87700       0       0      22164  ?              0 01:07:51 C:\Program Files\Google\Chrome\Application\chrome.exe
+    77076       0       0      11540  ?              0 01:07:51 C:\Program Files\Google\Chrome\Application\chrome.exe
+    86476       0       0      20940  ?              0 01:08:05 C:\Windows\System32\svchost.exe
+    99692       0       0      34156  ?              0 01:08:27 C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.24.10035.0_x64__0a9344xs7nr4m\radeonsoftware\RadeonSoftware.exe
+    91304       0       0      25768  ?              0 01:08:31 C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.24.10035.0_x64__0a9344xs7nr4m\radeonsoftware\cncmd.exe
+    82028       0       0      16492  ?              0 01:08:31 C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.24.10035.0_x64__0a9344xs7nr4m\radeonsoftware\AMDRSServ.exe
+    96328       0       0      30792  ?              0 01:08:31 C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.24.10035.0_x64__0a9344xs7nr4m\radeonsoftware\amdow.exe
+   100152       0       0      34616  ?              0 01:08:31 C:\Program Files\WindowsApps\AdvancedMicroDevicesInc-2.AMDRadeonSoftware_10.24.10035.0_x64__0a9344xs7nr4m\radeonsoftware\AMDRSSrcExt.exe
+   101348       0       0      35812  ?              0 01:09:27 C:\Windows\System32\DriverStore\FileRepository\asussci2.inf_amd64_ec0a7aca8834d5bc\ASUSSoftwareManager\AsusSoftwareManagerAgent.exe
+    77084       0       0      11548  ?              0 01:12:43 C:\Windows\System32\ApplicationFrameHost.exe
+    74276       0       0       8740  ?              0 01:12:43 C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+    85068       0       0      19532  ?              0 01:12:46 C:\Windows\System32\svchost.exe
+   100068       0       0      34532  ?              0 01:12:47 C:\Windows\System32\oobe\UserOOBEBroker.exe
+   101532       0       0      35996  ?              0 01:16:46 C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\AppActions.exe
+   100136       0       0      34600  ?              0 02:10:54 C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+    90900       0       0      25364  ?              0 02:26:27 C:\Windows\System32\ShellHost.exe
+    85980       0       0      20444  ?              0 02:32:50 C:\Program Files\Google\Chrome\Application\chrome.exe
+    93016       0       0      27480  ?              0 04:09:14 C:\Program Files\Google\Chrome\Application\chrome.exe
+    92300       0       0      26764  ?              0 15:06:09 C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_19.2608.61011.0_x64__8wekyb3d8bbwe\M365Copilot.exe
+    67416       0       0       1880  ?              0 15:06:10 C:\Windows\System32\RuntimeBroker.exe
+    82272       0       0      16736  ?              0 15:06:10 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    87472       0       0      21936  ?              0 15:06:10 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    94384       0       0      28848  ?              0 15:06:10 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+   101992       0       0      36456  ?              0 15:06:10 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    80136       0       0      14600  ?              0 15:06:10 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    76756       0       0      11220  ?              0 15:06:10 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    77244       0       0      11708  ?              0 15:14:48 C:\Windows\System32\RuntimeBroker.exe
+    75312       0       0       9776  ?              0 15:14:52 C:\Program Files\Microsoft OneDrive\26.153.0809.0004\OneDrive.Sync.Service.exe
+    86688       0       0      21152  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    81336       0       0      15800  ?              0   Aug 30 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\MsMpEng.exe
+    80488       0       0      14952  ?              0   Aug 30 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\MpDefenderCoreService.exe
+    87812       0       0      22276  ?              0   Aug 30 C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26080.3-0\NisSrv.exe
+    71296       0       0       5760  ?              0 15:48:17 C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.26061.10051.0_x64__8wekyb3d8bbwe\Video.UI.exe
+    99996       0       0      34460  ?              0 15:48:18 C:\Program Files\WindowsApps\Microsoft.GamingApp_2608.1001.17.0_x64__8wekyb3d8bbwe\XboxPcAppFT.exe
+    71304       0       0       5768  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+   102328       0       0      36792  ?              0 15:48:18 C:\Windows\System32\RuntimeBroker.exe
+    68444       0       0       2908  ?              0 15:55:49 C:\Program Files\Microsoft Office\root\Office16\SDXHelper.exe
+    79836       0       0      14300  ?              0 15:57:50 C:\Program Files\Google\Chrome\Application\chrome.exe
+    97532       0       0      31996  ?              0 16:00:49 C:\Program Files\Google\Chrome\Application\chrome.exe
+    78112       0       0      12576  ?              0 16:00:57 C:\Windows\System32\backgroundTaskHost.exe
+    88828       0       0      23292  ?              0 16:00:57 C:\Windows\System32\RuntimeBroker.exe
+    68448       0       0       2912  ?              0 16:04:49 C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe
+    81036       0       0      15500  ?              0 16:04:51 C:\Program Files (x86)\ASUS\ArmouryDevice\dll\SwAgent\ArmourySwAgent.exe
+    99460       0       0      33924  ?              0 16:05:34 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    86240       0       0      20704  ?              0 16:05:34 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    74052       0       0       8516  ?              0 16:05:34 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    90956       0       0      25420  ?              0 16:05:34 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    88664       0       0      23128  ?              0 16:05:34 C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+    90432       0       0      24896  ?              0 16:17:19 C:\Program Files\Google\Chrome\Application\chrome.exe
+   102332       0       0      36796  ?              0 18:00:01 C:\Program Files\Google\Chrome\Application\chrome.exe
+    86876       0       0      21340  ?              0 18:00:01 C:\Program Files\Google\Chrome\Application\chrome.exe
+    96636       0       0      31100  ?              0 18:00:12 C:\Program Files\Google\Chrome\Application\chrome.exe
+    72300       0       0       6764  ?              0 18:00:13 C:\Program Files\Google\Chrome\Application\chrome.exe
+    86056       0       0      20520  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    94060       0       0      28524  ?              0 18:42:21 C:\Program Files\WindowsApps\7EE7776C.LinkedInforWindows_3.0.43.0_x64__w1wdnht996qgy\LinkedIn.exe
+    97584       0       0      32048  ?              0 18:42:23 C:\Windows\System32\RuntimeBroker.exe
+   100188       0       0      34652  ?              0 18:42:23 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    94588       0       0      29052  ?              0 18:42:23 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    92032       0       0      26496  ?              0 18:42:24 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    79248       0       0      13712  ?              0 18:42:24 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    94868       0       0      29332  ?              0 18:42:24 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    97360       0       0      31824  ?              0 18:42:28 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    99896       0       0      34360  ?              0 18:42:33 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    66656       0       0       1120  ?              0 18:42:35 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    70476       0       0       4940  ?              0 18:42:37 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    69824       0       0       4288  ?              0 18:42:45 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    94684       0       0      29148  ?              0 18:44:01 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    68492       0       0       2956  ?              0 18:44:06 C:\Program Files (x86)\Microsoft\EdgeWebView\Application\152.0.4191.53\msedgewebview2.exe
+    97128       0       0      31592  ?              0 18:47:02 C:\Windows\System32\taskhostw.exe
+    81188       0       0      15652  ?              0 18:48:02 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    86532       0       0      20996  ?              0 18:48:03 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    86332       0       0      20796  ?              0 18:48:03 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    88512       0       0      22976  ?              0 18:48:03 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    92440       0       0      26904  ?              0 18:48:03 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    66080       0       0        544  ?              0 18:48:05 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    75608       0       0      10072  ?              0 18:48:05 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    83676       0       0      18140  ?              0 18:48:05 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    67988       0       0       2452  ?              0 18:48:50 C:\Users\Abhiroop\.vscode\extensions\codeium.codeium-1.48.2\dist\e03af6ebc40b844314d448f947c80b636d093049\language_server_windows_x64.exe
+    85468       0       0      19932  ?              0 18:48:50 C:\Windows\System32\conhost.exe
+    92852       0       0      27316  ?              0 18:48:51 C:\Users\Abhiroop\.vscode\extensions\codeium.codeium-1.48.2\dist\e03af6ebc40b844314d448f947c80b636d093049\language_server_windows_x64.exe
+    86124       0       0      20588  ?              0 18:50:07 C:\Windows\System32\svchost.exe
+    86624       0       0      21088  ?              0 18:50:07 C:\Windows\System32\dllhost.exe
+    87072       0       0      21536  ?              0 19:00:03 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    81364       0       0      15828  ?              0 19:00:03 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\08d4889f9e\resources\app\node_modules.asar.unpacked\node-pty\build\Release\conpty\OpenConsole.exe
+    81116       0       0      15580  ?              0 19:00:03 C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+    78944       0       0      13408  ?              0 19:03:07 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\08d4889f9e\resources\app\node_modules.asar.unpacked\node-pty\build\Release\conpty\OpenConsole.exe
+    94172       0       0      28636  ?              0 19:03:07 C:\Program Files\Git\bin\bash.exe
+     1739       1    1739       4956  cons0     197609 19:03:06 /usr/bin/bash
+    69396       0       0       3860  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+   100692       0       0      35156  ?              0 19:30:21 C:\Users\Abhiroop\AppData\Local\Programs\Microsoft VS Code\Code.exe
+    95296       0       0      29760  ?              0 19:33:23 C:\Windows\System32\audiodg.exe
+    91416       0       0      25880  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    95480       0       0      29944  ?              0 19:37:07 C:\Program Files\WindowsApps\Microsoft.YourPhone_1.26071.164.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+    65936       0       0        400  ?              0   Aug 30 C:\Windows\System32\svchost.exe
+    99308       0       0      33772  ?              0   Aug 30 C:\Windows\System32\SearchProtocolHost.exe
+    94916       0       0      29380  ?              0   Aug 30 C:\Windows\System32\SearchFilterHost.exe
+    81332       0       0      15796  ?              0   Aug 30 C:\Windows\System32\SearchFilterHost.exe
+    85244       0       0      19708  ?              0 19:37:52 C:\Program Files\Google\Chrome\Application\chrome.exe
+     2043    1739    2043      25808  cons0     197609 19:39:00 /usr/bin/ps
+    67240       0       0       1704  ?              0 19:39:00 C:\Program Files\Docker\Docker\resources\bin\docker.exe
+    99252       0       0      33716  ?              0 19:39:00 C:\Windows\System32\conhost.exe
