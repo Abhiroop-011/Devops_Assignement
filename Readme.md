@@ -1,5 +1,3 @@
-
-
 ## Commands Used
 * `mkdir`
 * `touch`
@@ -12,10 +10,10 @@
 ## Execution Screenshots
 
 ### 1.
-(Screenshot 2026-09-03 190821.png)
+![Screenshot 1](Screenshot%202026-09-03%20190821.png)
 
 ### 2.
-(Screenshot 2026-09-03 192727.png)
+![Screenshot 2](Screenshot%202026-09-03%20192727.png)
 
 ### 3. 
-(Screenshot 2026-09-03 193958.png)
+![Screenshot 3](Screenshot%202026-09-03%20193958.png)
