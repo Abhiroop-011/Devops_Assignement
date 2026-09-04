@@ -14,7 +14,7 @@
 *   Successfully verified that the backend could communicate with both, while the frontend remained isolated from the database.
 
 ### Connectivity Verification
-![Networking Output](Screenshot 2026-09-04 214540.png)
+![Networking Output](Screenshot%202026-09-04%20214540.png)
 
 ---
 
@@ -24,7 +24,7 @@
 *   Executed the container using `--network host`, binding it directly to the host machine's network interfaces.
 
 ### Host Execution Verification
-![Host Network Output](Screenshot 2026-09-04 214411.png)
+![Host Network Output](Screenshot%202026-09-04%20214411.png)
 
 ---
 
@@ -35,7 +35,7 @@
 *   Modified the local file and verified that the container served the updated content instantly without requiring a restart.
 
 ### Bind Mount Verification
-![Bind Mount Output](Screenshot 2026-09-04 214301.png)
+![Bind Mount Output](Screenshot%202026-09-04%20214301.png)
 
 ---
 
