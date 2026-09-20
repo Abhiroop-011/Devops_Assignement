@@ -8,16 +8,13 @@
 
 ---
 
-
 **## 01 - ClusterIP**
 
 **### Terminal Screenshots**
 
-![ClusterIP - 01](Screenshots/FILENAME.png)
+![ClusterIP - 01](Screenshots/Screenshot%202026-09-21%20000306.png)
 
-![ClusterIP - 02](Screenshots/FILENAME.png)
-
-![ClusterIP - 03](Screenshots/FILENAME.png)
+![ClusterIP - 02](Screenshots/Screenshot%202026-09-21%20001231.png)
 
 **---**
 
@@ -25,9 +22,9 @@
 
 **### Terminal Screenshots**
 
-![NodePort - 01](Screenshots/FILENAME.png)
+![NodePort - 01](Screenshots/Screenshot%202026-09-21%20001252.png)
 
-![NodePort - 02](Screenshots/FILENAME.png)
+![NodePort - 02](Screenshots/Screenshot%202026-09-21%20001748.png)
 
 **---**
 
@@ -35,9 +32,7 @@
 
 **### Terminal Screenshots**
 
-![LoadBalancer - 01](Screenshots/FILENAME.png)
-
-![LoadBalancer - 02](Screenshots/FILENAME.png)
+![LoadBalancer - 01](Screenshots/Screenshot%202026-09-21%20001807.png)
 
 **---**
 
@@ -45,9 +40,9 @@
 
 **### Terminal Screenshots**
 
-![ExternalName - 01](Screenshots/FILENAME.png)
+![ExternalName - 01](Screenshots/Screenshot%202026-09-21%20002204.png)
 
-![ExternalName - 02](Screenshots/FILENAME.png)
+![ExternalName - 02](Screenshots/Screenshot%202026-09-21%20002453.png)
 
 **---**
 
@@ -55,8 +50,8 @@
 
 **### Terminal Screenshots**
 
-![Headless - 01](Screenshots/FILENAME.png)
+![Headless - 01](Screenshots/Screenshot%202026-09-21%20003251.png)
 
-![Headless - 02](Screenshots/FILENAME.png)
+![Headless - 02](Screenshots/Screenshot%202026-09-21%20003332.png)
 
-![Headless - 03](Screenshots/FILENAME.png)
+![Headless - 03](Screenshots/Screenshot%202026-09-21%20003419.png)
