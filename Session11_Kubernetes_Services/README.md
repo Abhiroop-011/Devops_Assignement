@@ -8,47 +8,47 @@
 
 ---
 
-**## 01 - ClusterIP**
+## 01 - ClusterIP
 
-**### Terminal Screenshots**
+### Terminal Screenshots
 
 ![ClusterIP - 01](Screenshots/Screenshot%202026-09-21%20000306.png)
 
 ![ClusterIP - 02](Screenshots/Screenshot%202026-09-21%20001231.png)
 
-**---**
+---
 
-**## 02 - NodePort**
+## 02 - NodePort
 
-**### Terminal Screenshots**
+### Terminal Screenshots
 
 ![NodePort - 01](Screenshots/Screenshot%202026-09-21%20001252.png)
 
 ![NodePort - 02](Screenshots/Screenshot%202026-09-21%20001748.png)
 
-**---**
+---
 
-**## 03 - LoadBalancer**
+## 03 - LoadBalancer
 
-**### Terminal Screenshots**
+### Terminal Screenshots
 
 ![LoadBalancer - 01](Screenshots/Screenshot%202026-09-21%20001807.png)
 
-**---**
+---
 
-**## 04 - ExternalName**
+## 04 - ExternalName
 
-**### Terminal Screenshots**
+### Terminal Screenshots
 
 ![ExternalName - 01](Screenshots/Screenshot%202026-09-21%20002204.png)
 
 ![ExternalName - 02](Screenshots/Screenshot%202026-09-21%20002453.png)
 
-**---**
+---
 
-**## 05 - Headless**
+## 05 - Headless
 
-**### Terminal Screenshots**
+### Terminal Screenshots
 
 ![Headless - 01](Screenshots/Screenshot%202026-09-21%20003251.png)
 
