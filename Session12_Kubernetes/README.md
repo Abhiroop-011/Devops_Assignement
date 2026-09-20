@@ -8,40 +8,42 @@
 
 ---
 
-**## 01 - ConfigMap**
+## 01 - ConfigMap
 
-**### Screenshots**
+### Screenshots
 
-![ConfigMap - 01](Screenshots/PASTE-FILENAME-HERE.png)
+![ConfigMap - 01](Screenshots/Screenshot%202026-09-21%20004529.png)
 
-![ConfigMap - 02](Screenshots/PASTE-FILENAME-HERE.png)
+![ConfigMap - 02](Screenshots/Screenshot%202026-09-21%20004709.png)
 
-**---**
+---
 
-**## 02 - Secrets**
+## 02 - Secrets
 
-**### Screenshots**
+### Screenshots
 
-![Secrets - 01](Screenshots/PASTE-FILENAME-HERE.png)
+![Secrets - 01](Screenshots/Screenshot%202026-09-21%20005043.png)
 
-**---**
+![Secrets - 02](Screenshots/Screenshot%202026-09-21%20005109.png)
 
-**## 03 - Ingress**
+---
 
-**### Screenshots**
+## 03 - Ingress
 
-![Ingress - 01](Screenshots/PASTE-FILENAME-HERE.png)
+### Screenshots
 
-![Ingress - 02](Screenshots/PASTE-FILENAME-HERE.png)
+![Ingress - 01](Screenshots/Screenshot%202026-09-21%20005502.png)
 
-**---**
+![Ingress - 02](Screenshots/Screenshot%202026-09-21%20005914.png)
 
-**## 04 - Full Demo**
+---
 
-**### Screenshots**
+## 04 - Full Demo
 
-![Full Demo - 01](Screenshots/PASTE-FILENAME-HERE.png)
+### Screenshots
 
-![Full Demo - 02](Screenshots/PASTE-FILENAME-HERE.png)
+![Full Demo - 01](Screenshots/Screenshot%202026-09-21%20010226.png)
 
-![Full Demo - 03](Screenshots/PASTE-FILENAME-HERE.png)
+![Full Demo - 02](Screenshots/Screenshot%202026-09-21%20010317.png)
+
+![Full Demo - 03](Screenshots/Screenshot%202026-09-21%20010525.png)
